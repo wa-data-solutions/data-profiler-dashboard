@@ -77,3 +77,18 @@ data-profiler-dashboard/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
+
+## 👨‍💻 Autor
+
+### Wendril Araujo Ferreira
+
+Desenvolvido como projeto de estudo e portfólio para demonstrar conhecimentos em:
+
+- Data Engineering
+- Data Profiling
+- Data Quality
+- Pandas
+- Manipulação de Arquivos
+- Streamlit
+- Python
