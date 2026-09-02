@@ -2,14 +2,20 @@
 venv/
 .venv/
 
-# Python
+# Cache do Python
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
 
-# Streamlit
-.streamlit/secrets.toml
+# Cache do Streamlit
+.streamlit/
 
-# Sistema operacional
+# Arquivos de sistema
 .DS_Store
 Thumbs.db
+
+# Ambiente / configurações
+.env
+
+# Arquivos de IDE
+.vscode/
+.idea/
